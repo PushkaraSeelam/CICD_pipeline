@@ -1,0 +1,9 @@
+{
+	"name": "adfcicddev2025",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1a910d08-440f-4a40-ac70-3e8d158272b6",
+		"tenantId": "275e22f6-9597-4a94-a450-0f2b24409dc0"
+	}
+}
